@@ -1,0 +1,2 @@
+chmod 400 Alura-IAC.pem -> Linux
+icacls Alura-IAC.pem /grant kelvy:"(RX)" -> Windows
