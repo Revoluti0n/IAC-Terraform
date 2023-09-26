@@ -1,0 +1,2 @@
+chmod 400 <key-pair-name>.pem -> Linux
+icacls <key-pair-name>.pem /grant <user>:"(RX)" -> Windows
